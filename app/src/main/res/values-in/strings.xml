@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySubmitDicoding5</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="change_language_setting">Ganti Bahasa</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="tab_text_3">Film Favorit</string>
+    <string name="tab_text_4">Acara TV Favorit</string>
+
+    <string name="title_activity_detail">Detail</string>
+    <string name="description">deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="removefavorite">Hapus Dari Favorite</string>
+    <string name="Add">Tambah Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Masukkan Judul</string>
+    <string name="appwidget_text">My Movie Widget</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="poster_film">Gambar</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="notification">Notification</string>
+    <string name="setting_daily_key">Key Set Daily</string>
+    <string name="setting_daily_summary">Reminder Daily</string>
+    <string name="setting_daily_title">Daily Reminder</string>
+    <string name="setting_release_key">Release Key</string>
+    <string name="setting_release_title">Release Reminder</string>
+    <string name="setting_release_summary">Release Reminder</string>
+    <string name="alarm_message_daily">Hello, We are missing you&#8230;Please Come Back</string>
+    <string name="alarm_message_release">New Release film is coming out, Check it out!</string>
+
+</resources>

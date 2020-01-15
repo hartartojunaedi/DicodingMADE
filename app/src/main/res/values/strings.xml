@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MySubmitDicoding5</string>
+    <string name="nama_film">Movie Name</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="tab_text_3">Movie Favorite</string>
+    <string name="tab_text_4">TV Show Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_detail">Detail</string>
+    <string name="description">description</string>
+    <string name="title">Title</string>
+    <string name="removefavorite">Remove From Favorite</string>
+    <string name="Add">Add To Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Input Title</string>
+    <string name="appwidget_text">My Movie Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="poster_film">Poster</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="alarm_message_daily">Hello, We are missing you&#8230;Please Come Back</string>
+    <string name="alarm_message_release">New Release film is coming out, Check it out!</string>
+    <string name="notification">Notification</string>
+    <string name="setting_daily_key">Key Set Daily</string>
+    <string name="setting_daily_summary">Reminder Daily</string>
+    <string name="setting_daily_title">Daily Reminder</string>
+    <string name="setting_release_key">Release Key</string>
+    <string name="setting_release_title">Release Reminder</string>
+    <string name="setting_release_summary">Release Reminder</string>
+    <string name="change_preferences">Change Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
